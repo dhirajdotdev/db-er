@@ -47,6 +47,6 @@ The system is designed to manage:
 
 ## Notes
 
-The design is normalized, scalable and supports multiple clients per trainer, multiple subscriptions per client, and structured progress tracking without mixing concerns.
+The design is normalized, scalable and supports multiple clients per trainer, multiple subscriptions per client and structured progress tracking without mixing concerns.
 
 ---
